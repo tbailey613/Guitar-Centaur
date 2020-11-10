@@ -1,2 +1,2 @@
-# Guitar-Centuar
-Guitar-Centuar hrr49
+# Guitar-Centaur
+Guitar-Centaur hrr49
